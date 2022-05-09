@@ -1,0 +1,13 @@
+{
+    "colors": [
+        { "id": 1, "name": "red", "hex": "" },
+        { "id": 2, "name": "blue", "hex": "" },
+        { "id": 3, "name": "green", "hex": "" }
+    ],
+    "blocks": [
+        { "id": 1, "name": "A", "color": "red" },
+        { "id": 2, "name": "B", "color": "red" },
+        { "id": 3, "name": "C", "color": "blue" },
+        { "id": 4, "name": "D", "color": "green" }
+    ]
+}
